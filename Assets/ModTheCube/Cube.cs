@@ -13,6 +13,8 @@ public class Cube : MonoBehaviour
     float yRotationSpeed = 0f;
     float zRotationSpeed = 0f;
 
+    
+
     void Start()
     {
         InvokeRepeating("ChangeColor", startDelay, invokeInterval);
