@@ -5,6 +5,6 @@
 # Course Repo
 
 - **Title:** Programming Basics: Mod the Cube
-- **Taught by:** Unity Technologies
+- **Instructor:** Unity Technologies
 - **Platform:** Unity Learn
 - **Note(s):**
